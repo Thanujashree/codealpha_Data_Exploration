@@ -1,7 +1,5 @@
 # Data Exploration with Iris Dataset
 
-![Data Exploration with Iris Dataset](data-exploration-screenshot.png)
-
 Explore the structure of the Iris dataset, handle missing values, and visualize the data using plots and graphs to understand the distribution of each feature.
 
 ## Project Overview
@@ -22,7 +20,7 @@ This Jupyter Notebook project focuses on exploring the Iris dataset to gain insi
 ## Getting Started
 
 1. **Clone the Repository:**
-git clone https://github.com/yourusername/data-exploration-iris.git
+git clone https://github.com/Thanujashree/codealpha_Data_Exploration.git
 
 markdown
 Copy code
@@ -30,7 +28,7 @@ Copy code
 2. **Open the Jupyter Notebook:**
 - Install Jupyter Notebook if not already installed: `pip install notebook`
 - Launch Jupyter Notebook: `jupyter notebook`
-- Open the `data-exploration-iris.ipynb` file in the browser.
+- Open the `dstask2.ipynb` file in the browser.
 
 3. **Run the Notebook:**
 - Execute each cell in the notebook to perform data exploration tasks.
@@ -43,7 +41,7 @@ Copy code
 
 ## Demo
 
-[View the Jupyter Notebook](https://nbviewer.jupyter.org/github/yourusername/data-exploration-iris/blob/main/data-exploration-iris.ipynb)
+[demo Video](https://drive.google.com/file/d/1N8MZVKalS-yM8dYJmvuyMSQKzVJ4s4wz/view?usp=drive_link)
 
 ## License
 
@@ -51,8 +49,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or suggestions, please [contact us](mailto:your.email@example.com).
-
+For questions or suggestions, please raise an issue.
 Explore the Iris dataset and uncover valuable insights with this data exploration project!
 
-![Data Exploration with Iris Dataset Logo](data-exploration-iris-logo.png)
+
